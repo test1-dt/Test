@@ -7,3 +7,4 @@ Test branch 1
 Do a new thing while there is a new branch has been created and see what happens ( branch 1).
 
 Hi, i'm Khuong and i have just forked this repo from my test-dt/Test. and yeah do something new right now.
+Just do it!
