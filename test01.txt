@@ -2,5 +2,6 @@ Just wanna make use of Github 1
 Just wanna make use of Github 2
 Just wanna make use of Github 3
 Just wanna make use of Github 4
+Test branch 
 Test branch 1
 Do a new thing while there is a new branch has been created and see what happens ( branch 1).
